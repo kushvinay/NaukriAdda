@@ -1,0 +1,68 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/Studentlogin/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Studentlogin/page.css",
+      "static/chunks/app/Studentlogin/page.js"
+    ],
+    "/Student/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Student/layout.css",
+      "static/chunks/app/Student/layout.js"
+    ],
+    "/Student/StudentHome/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Student/StudentHome/page.js"
+    ],
+    "/Student/Jobs/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Student/Jobs/[id]/page.css",
+      "static/chunks/app/Student/Jobs/[id]/page.js"
+    ],
+    "/Student/Internships/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Student/Internships/[id]/page.css",
+      "static/chunks/app/Student/Internships/[id]/page.js"
+    ],
+    "/Student/Jobs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Student/Jobs/page.css",
+      "static/chunks/app/Student/Jobs/page.js"
+    ],
+    "/Student/Internships/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Student/Internships/page.css",
+      "static/chunks/app/Student/Internships/page.js"
+    ],
+    "/Student/updatestudent/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Student/updatestudent/page.css",
+      "static/chunks/app/Student/updatestudent/page.js"
+    ],
+    "/Student/changepassword/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Student/changepassword/page.css",
+      "static/chunks/app/Student/changepassword/page.js"
+    ]
+  }
+}
